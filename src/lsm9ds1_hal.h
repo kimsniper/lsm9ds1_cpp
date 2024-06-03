@@ -85,9 +85,7 @@ public:
 
  private:
 
-    I2C i2c;
-    DigitalOut pulluppin;
-    DigitalOut acc_pwr;
+    /* User implementation here */
 
 };
 
